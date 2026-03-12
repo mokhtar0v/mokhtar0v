@@ -65,9 +65,9 @@ focus_areas:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mokhatr0v&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a1a&title_color=00f0ff&text_color=8888aa&icon_color=00ff88" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mokhtar0v&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a1a&title_color=00f0ff&text_color=8888aa&icon_color=00ff88" alt="GitHub Stats"/>
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokhatr0v&theme=tokyonight&hide_border=true&layout=compact&bg_color=0a0a1a&title_color=00f0ff&text_color=8888aa" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokhtar0v&theme=tokyonight&hide_border=true&layout=compact&bg_color=0a0a1a&title_color=00f0ff&text_color=8888aa" alt="Top Languages"/>
 </p>
 
 <p align="center">
