@@ -1,31 +1,90 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-- 🌱 I’m currently learning at SouthValley National University...
-- 💬 Ask me about Programming
-- 📫 How to reach me: omar.mokhtar22@svnu.edu.eg..
-
-<h1 align="center">Hi 👋, I'm Omar Mokhtar</h1>
-<h3 align="center">Computer science student and aspiring Back-End Developer</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mokhtar0v&label=Profile%20views&color=0e75b6&style=flat" alt="mokhtar0v" /> </p>
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/omar-mokhtar-5605b3306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Omar+Mohammed+Mokhtar;Back-End+Engineer+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> 
-<a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/eg_ar/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Premiere" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokhtar0v&theme=dark" alt="mokhtar0v" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokhtar0v&theme=dark" alt="mokhtar0v"/>
+  <a href="https://www.linkedin.com/in/mokhtaromar47/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:omarmokhtarian@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mokhtar0v&style=for-the-badge&color=00f0ff&label=Profile+Views" alt="Profile Views"/>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mokhtar0v&show_icons=true&count_private=true&theme=dark&include_all_commits=true" />
+
+---
+
+## 🔐 About Me
+
+```yaml
+name: Omar Mohammed Mokhtar
+title: Back-End Engineer
+education:
+  degree: B.Sc. Computer Science
+  university: South Valley National University
+  graduation: July 2026
+focus_areas:
+  - C# / .NET / ASP.NET Core
+  - SQL & Database Design
+  - Clean Architecture & System Design
+```
+
+## 🛡️ Core Expertise
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>⚙️ Backend</strong></td>
+    <td align="center" width="25%"><strong>🗄️ Database</strong></td>
+    <td align="center" width="25%"><strong>🏗️ Architecture</strong></td>
+    <td align="center" width="25%"><strong>💻 Development</strong></td>
+  </tr>
+  <tr>
+    <td>ASP.NET MVC<br>RESTful APIs<br>Clean Architecture<br>Repository Pattern<br>DTOs & Services<br>Entity Modeling</td>
+    <td>SQL Optimization<br>Database Design<br>Entity Framework<br>Query Tuning<br>Relational Modeling<br>Schema Architecture</td>
+    <td>System Design<br>Separation of Concerns<br>Modular Architecture<br>Scalable Patterns<br>Domain Modeling<br>Clean Code</td>
+    <td>C#<br>SQL<br>Python<br>.NET Framework<br>HTML / CSS / JS</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-5C2D91?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjOUI0Rjk2IiBkPSJNMTE1LjQgMzAuN0w2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjQgMSAzLjVsMTA2LjgtNjJjLS42LTEuMi0xLjUtMi4xLTIuNC0yLjd6Ii8+PHBhdGggZmlsbD0iIzY4MjE3QSIgZD0iTTEwLjcgOTUuM2MuNS44IDEuMiAxLjUgMS45IDEuOWw0OC4yIDI3LjljLjguNSAxLjkuNyAzLjEuNyAxLjIgMCAyLjMtLjMgMy4xLS43bDQ4LTI3LjljMS43LTEgMi45LTMuNSAyLjktNS40VjM2LjFjMC0uOS0uMS0xLjktLjYtMi44bC0xMDYuNiA2MnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNODUuMyA3Ni4xQzgxLjEgODMuNSA3My4xIDg4LjUgNjQgODguNWMtMTMuNSAwLTI0LjUtMTEtMjQuNS0yNC41czExLTI0LjUgMjQuNS0yNC41YzkuMSAwIDE3LjEgNSAyMS4zIDEyLjVsMTMtNy41Yy02LjgtMTEuOS0xOS42LTIwLTM0LjMtMjAtMjEuOCAwLTM5LjUgMTcuNy0zOS41IDM5LjVzMTcuNyAzOS41IDM5LjUgMzkuNWMxNC42IDAgMjcuNC04IDM0LjItMTkuOGwtMTIuOS03LjZ6TTk3IDY2LjJsLjktNC4zaC00LjJ2LTQuN2g1LjFMMTAwIDUxaDQuOWwtMS4yIDYuMWgzLjhsMS4yLTYuMWg0LjhsLTEuMiA2LjFoMi40djQuN2gtMy4zbC0uOSA0LjNoNC4ydjQuN2gtNS4xbC0xLjIgNmgtNC45bDEuMi02aC0zLjhsLTEuMiA2aC00LjhsMS4yLTZoLTIuNHYtNC43SDk3em00LjggMGgzLjhsLjktNC4zaC0zLjhsLS45IDQuM3oiLz48L3N2Zz4=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mokhatr0v&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a1a&title_color=00f0ff&text_color=8888aa&icon_color=00ff88" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokhatr0v&theme=tokyonight&hide_border=true&layout=compact&bg_color=0a0a1a&title_color=00f0ff&text_color=8888aa" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokhtar0v&theme=tokyonight&hide_border=true&background=0a0a1a&ring=00f0ff&fire=00ff88&currStreakLabel=00f0ff&sideLabels=8888aa&dates=555577" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mokhtar0v&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <strong>Open to internships, collaborations, and security challenges.</strong><br>
+</p>
+
+<p align="center">
+  <a href="mailto:omarmokharian@gmail.com@gmail.com">📧 omarmokhtarian@gmail.com</a> · 
+  <a href="https://www.linkedin.com/in/mokhtaromar47/">LinkedIn</a> · 
+</p>
